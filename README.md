@@ -72,4 +72,9 @@ performance - string
 
 ------------------------------------------------------------------------------------------------------------------------
 
+Buisness rules, providing load data
+
+Load must be tested
+load must be safe
+load must be within manufacturers reccomendations
 
