@@ -16,7 +16,6 @@ User needs to load ammunition for their hunting rifle, they imput their caliber 
 EERD
 
 see ER Diagram.png
-caliber is the primary key, bullet and powder are secondary keys
 
 -----------------------------------------------------------------------------------------------------------------
 Scope
@@ -29,4 +28,48 @@ Scope
 5)populate load data
 6)categorize load data into hunting and target
 7)add gui (maybie)
+
+-----------------------------------------------------------------------------------------------
+Data Dictionary
+
+constraints: all ints must be > 0, strings cannot be null
+
+Table: calibers
+Primary key: caliber
+forign key: type
+Attributes and data types
+caliber - string
+type - string
+
+Table: Bullets
+Primary Key: caliber
+Foreign Key: type
+attributes and data types
+caliber - string
+name - string
+type - string
+weight - int
+manufacturer - string
+
+Table: powders
+Primary key: name
+Foreign Key: type
+attributes and data types
+type - string
+name - string
+manufacturer - string
+
+Table: Load Data
+primary key: id
+foreign key: caliber
+attributes and datatypes
+bullet - string
+powder - string
+amount of powder - int
+O.A.L. - float
+type - string
+performance - string
+
+------------------------------------------------------------------------------------------------------------------------
+
 
