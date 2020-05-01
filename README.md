@@ -1,11 +1,11 @@
 # DatastructuresAssignment
 
-Individual Project, Alexander Reibsane 801028575
+Group Project, Alexander Reibsane, Katie Richardson
 
 -------------------------------------------------------------------------------------------------------
 Introduction
 
-My project is a database designed for A delivery service based in Charlotte NC, as such, I have only included locations on the UNCC campus in my starting data. That being said, it would be easy to expand on that dataset. I designed this database to include expanded information on all users, including their affiliation with the university, role, and contact information. Each order has a unique id, as does each customer. In the interest of realism, each person has a seperate ID from their organization that differs from their customer ID. This is based off of my experience migrating a real world customer's data from seperate legacy systems to a new all inclusive system. Different data is avalible which is specific to an individuals organization and role. For example, a delivery driver has a hire date, but doesnt have a major or department at the university.
+our project is a database designed for A delivery service based in Charlotte NC, as such, we have only included locations on the UNCC campus in our starting data. That being said, it would be easy to expand on that dataset. We designed this database to include expanded information on all users, including their affiliation with the university, role, and contact information. Each order has a unique id, as does each customer. In the interest of realism, each person has a seperate ID from their organization that differs from their customer ID. This is based off of my (Alex) experience migrating a real world customer's data from seperate legacy systems to a new all inclusive system. Different data is avalible which is specific to an individuals organization and role. For example, a delivery driver has a hire date, but doesnt have a major or department at the university.
 
 ---------------------------------------------------------------------------------------------------------
 Use Case
