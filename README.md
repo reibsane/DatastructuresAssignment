@@ -112,3 +112,10 @@ provide only relevant information to customer
 maintain data on customers for future use
 customers can have multiple orders assigned to them
 
+-----------------------------------------------------------------------------------------------------------------
+
+Advanced Views
+
+highest_order_totals displays the top ten highest order totals along with the Order number, Customer Name, and the Customers role (student/faculty/staff)
+
+highest_driver_rating returns the top ten rated drivers as well as their ID, Rating, and Car Make
