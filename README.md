@@ -1,6 +1,6 @@
 # DatastructuresAssignment
 
-Group Project, Alexander Reibsane, Katie Richardson
+Group Project, Alexander Reibsane, Anna Richardson
 
 -------------------------------------------------------------------------------------------------------
 Introduction
