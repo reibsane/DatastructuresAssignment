@@ -119,3 +119,10 @@ Advanced Views
 highest_order_totals displays the top ten highest order totals along with the Order number, Customer Name, and the Customers role (student/faculty/staff)
 
 highest_driver_rating returns the top ten rated drivers as well as their ID, Rating, and Car Make
+
+
+---------------------------------------------------------------------------------------------------------------------------
+
+stored procedure
+
+get_all_id() returns all different id numbers for each person in the database, sorted alphabetically by first name
